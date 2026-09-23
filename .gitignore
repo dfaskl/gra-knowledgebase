@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.idea/
+.vscode/
+data/raw/fetch_checkpoint_*.json
+test_api.py
+scripts/md2docx.py
+scripts/paper2docx.py
